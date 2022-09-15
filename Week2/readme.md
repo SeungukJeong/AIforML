@@ -9,5 +9,5 @@ Tasks <br>
 - Upload Colab code to Github 
 
 Team03 Members <br>
-(Lee, Jiwon)[https://github.com/jwlee2542] <br>
-(Ahn, Hyungjoo)[https://github.com/HyungjooAhn1] <br>
+[Lee, Jiwon](https://github.com/jwlee2542) <br>
+[Ahn, Hyungjoo](https://github.com/HyungjooAhn1) <br>
